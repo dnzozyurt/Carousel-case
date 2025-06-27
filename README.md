@@ -39,7 +39,7 @@ cd Carousel-case
 ```
 Alternatif olarak .zip olarak indirip klasörü manuel açabilirsiniz.
 
-###2. e-bebek.com Ana Sayfasına Gidin:
+### 2. e-bebek.com Ana Sayfasına Gidin:
 
 https://www.ebebek.com adresine gidin
 
