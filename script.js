@@ -1,17 +1,20 @@
 (() => {
-    const API_URL = "https://gist.githubusercontent.com/sevindi/8bcbde9f02c1d4abe112809c974e1f49/raw/9bf93b58df623a9b16f1db721cd0a7a539296cf0/products.json";
-    const STORAGE_KEY = "carouselProducts";
-    const FAV_KEY = "favProducts";
+
+
+  const API_URL = "https://gist.githubusercontent.com/sevindi/8bcbde9f02c1d4abe112809c974e1f49/raw/9bf93b58df623a9b16f1db721cd0a7a539296cf0/products.json";
+  const STORAGE_KEY = "carouselProducts";
+  const FAV_KEY = "favProducts";
   
-    const isHomePage = () => location.pathname === "/" || location.pathname.includes("index.html");
+  const isHomePage = () => location.pathname === "/" || location.pathname.includes("index.html");
   
-    const getStoredProducts = () => JSON.parse(localStorage.getItem(STORAGE_KEY)) || null;
-    const saveFavorites = (arr) => localStorage.setItem(FAV_KEY, JSON.stringify(arr));
-    const getFavorites = () => JSON.parse(localStorage.getItem(FAV_KEY)) || [];
+  const getStoredProducts = () => JSON.parse(localStorage.getItem(STORAGE_KEY)) || null;
+  const saveFavorites = (arr) => localStorage.setItem(FAV_KEY, JSON.stringify(arr));
+  const getFavorites = () => JSON.parse(localStorage.getItem(FAV_KEY)) || [];
   
-    const injectStyles = () => {
-      const style = document.createElement("style");
-      style.textContent = `
+  const injectStyles = () => {
+
+    const style = document.createElement("style");
+    style.textContent = `
         #custom-carousel {
           max-width: 1320px;
           margin: 30px auto;
