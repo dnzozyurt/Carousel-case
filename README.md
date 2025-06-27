@@ -62,3 +62,9 @@ Tüm içeriği kopyalayın
 Console alanına yapıştırın ve Enter tuşuna basın
 
 ✅ Karusel, "stories" bölümünden sonra otomatik olarak eklenecektir.
+
+## Proje Yapısı
+
+Carousel-case/
+├── script.js      # Tüm JS, HTML ve CSS bu dosyada
+└── README.md      # Proje dokümantasyonu
