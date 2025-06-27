@@ -95,25 +95,25 @@ Yanıt Formatı: JSON
 ---
 
 ## Kullanılan Teknolojiler
--Vanilla JavaScript (ES6+)
+- Vanilla JavaScript (ES6+)
 
--DOM ile dinamik HTML/CSS üretimi
+- DOM ile dinamik HTML/CSS üretimi
 
--fetch() ile API’den veri çekme
+- fetch() ile API’den veri çekme
 
--localStorage ile veri yönetimi
+- localStorage ile veri yönetimi
 
--Harici kütüphane YOK (Bootstrap, jQuery, Swiper vs. kullanılmadı)
+- Harici kütüphane YOK (Bootstrap, jQuery, Swiper vs. kullanılmadı)
 
 ---
 
 ## Ek Bilgiler
--Bu proje, yalnızca tek bir script.js dosyasından oluşur.
+- Bu proje, yalnızca tek bir script.js dosyasından oluşur.
 
--Proje, Chrome Developer Console üzerinden çalıştırılabilir.
+- Proje, Chrome Developer Console üzerinden çalıştırılabilir.
 
--Tüm HTML ve CSS yapısı JavaScript tarafından oluşturulur.
+- Tüm HTML ve CSS yapısı JavaScript tarafından oluşturulur.
 
--Tüm özellikler görev yönergesine %100 uygundur.
+- Tüm özellikler görev yönergesine %100 uygundur.
 
 
