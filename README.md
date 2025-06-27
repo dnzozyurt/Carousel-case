@@ -1,4 +1,4 @@
-# 🎠 Ürün Döngüsü Projesi (Carousel-case)
+# Ürün Döngüsü Projesi (Carousel-case)
 
 Bu proje, bir e-ticaret web sitesinin ana sayfasında yer alan ürün karuselinin **piksel mükemmelliğinde** bir kopyasıdır.  
 Tasarım, stil ve yapı tamamen tek bir `JavaScript (.js)` dosyası içinde, **dinamik olarak** oluşturulmuştur.  
@@ -6,7 +6,7 @@ Hiçbir harici HTML veya CSS dosyası bulunmaz — tüm yapı `DOM` üzerinden o
 
 ---
 
-## 📝 Görev Özeti
+## Görev Özeti
 
 Bu projede aşağıdaki özellikler başarıyla uygulanmıştır:
 
