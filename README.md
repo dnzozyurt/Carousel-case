@@ -27,7 +27,7 @@ Bu projede aşağıdaki özellikler başarıyla uygulanmıştır:
 
 ---
 
-## 🚀 Kurulum ve Kullanım Rehberi
+## Kurulum ve Kullanım Rehberi
 
 Bu projeyi tarayıcı üzerinde test etmek ve çalıştırmak için aşağıdaki adımları takip edebilirsiniz:
 
@@ -61,7 +61,7 @@ Tüm içeriği kopyalayın
 
 Console alanına yapıştırın ve Enter tuşuna basın
 
-✅ Karusel, "stories" bölümünden sonra otomatik olarak eklenecektir.
+Karusel, "stories" bölümünden sonra otomatik olarak eklenecektir.
 
 ---
 
