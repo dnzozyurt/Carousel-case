@@ -67,12 +67,14 @@ Console alanına yapıştırın ve Enter tuşuna basın
 
 ## Proje Yapısı
 
+```bash
 Carousel-case/
 ├── script.js      # Tüm JS, HTML ve CSS bu dosyada
 └── README.md      # Proje dokümantasyonu
-
+```
 ## API Bilgisi
-API URL:```bash
+API URL:
+```bash
 https://gist.githubusercontent.com/sevindi/8bcbde9f02c1d4abe112809c974e1f49/raw/9bf93b58df623a9b16f1db721cd0a7a539296cf0/products.json
 ```
 Yanıt Formatı: JSON
