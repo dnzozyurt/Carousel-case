@@ -94,7 +94,7 @@ Yanıt Formatı: JSON
 
 ---
 
-Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
 -Vanilla JavaScript (ES6+)
 
 -DOM ile dinamik HTML/CSS üretimi
@@ -104,4 +104,16 @@ Kullanılan Teknolojiler
 -localStorage ile veri yönetimi
 
 -Harici kütüphane YOK (Bootstrap, jQuery, Swiper vs. kullanılmadı)
+
+---
+
+## Ek Bilgiler
+-Bu proje, yalnızca tek bir script.js dosyasından oluşur.
+
+-Proje, Chrome Developer Console üzerinden çalıştırılabilir.
+
+-Tüm HTML ve CSS yapısı JavaScript tarafından oluşturulur.
+
+-Tüm özellikler görev yönergesine %100 uygundur.
+
 
