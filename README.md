@@ -72,13 +72,13 @@ Carousel-case/
 └── README.md      # Proje dokümantasyonu
 
 ## API Bilgisi
-API URL:
+API URL:```bash
 https://gist.githubusercontent.com/sevindi/8bcbde9f02c1d4abe112809c974e1f49/raw/9bf93b58df623a9b16f1db721cd0a7a539296cf0/products.json
-
+```
 Yanıt Formatı: JSON
 
 ## JSON Veri Formatı
-'''bash
+```bash
 [
   {
     "id": "123",
@@ -90,7 +90,7 @@ Yanıt Formatı: JSON
     "original_price": 129.99
   }
 ]
-'''
+```
 
 ---
 
