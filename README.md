@@ -38,7 +38,7 @@ git clone https://github.com/dnzozyurt/Carousel-case.git
 cd Carousel-case
 Alternatif olarak .zip olarak indirip klasörü manuel açabilirsiniz.
 
-### 2. E-bebek Anasayfasını İndir
+2. **e-bebek.com Ana Sayfasına Gidin:**
 
 https://www.ebebek.com adresine gidin
 
