@@ -63,8 +63,45 @@ Console alanına yapıştırın ve Enter tuşuna basın
 
 ✅ Karusel, "stories" bölümünden sonra otomatik olarak eklenecektir.
 
+---
+
 ## Proje Yapısı
 
 Carousel-case/
 ├── script.js      # Tüm JS, HTML ve CSS bu dosyada
 └── README.md      # Proje dokümantasyonu
+
+## API Bilgisi
+API URL:
+https://gist.githubusercontent.com/sevindi/8bcbde9f02c1d4abe112809c974e1f49/raw/9bf93b58df623a9b16f1db721cd0a7a539296cf0/products.json
+
+Yanıt Formatı: JSON
+
+## JSON Veri Formatı
+'''bash
+[
+  {
+    "id": "123",
+    "brand": "Marka",
+    "name": "Ürün Adı",
+    "url": "https://example.com/product",
+    "img": "assets/product.jpg",
+    "price": 99.99,
+    "original_price": 129.99
+  }
+]
+'''
+
+---
+
+Kullanılan Teknolojiler
+-Vanilla JavaScript (ES6+)
+
+-DOM ile dinamik HTML/CSS üretimi
+
+-fetch() ile API’den veri çekme
+
+-localStorage ile veri yönetimi
+
+-Harici kütüphane YOK (Bootstrap, jQuery, Swiper vs. kullanılmadı)
+
