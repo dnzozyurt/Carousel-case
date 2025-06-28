@@ -116,6 +116,5 @@ Yanıt Formatı: JSON
 
 - Tüm HTML ve CSS yapısı JavaScript tarafından oluşturulur.
 
-- Tüm özellikler görev yönergesine %100 uygundur.
 
 
