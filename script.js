@@ -325,5 +325,6 @@
     }
     renderProducts(products);
   };
+  
   init();
 })();
