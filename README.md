@@ -1,4 +1,4 @@
-# Ürün Döngüsü Projesi (Carousel-case)
+# ÜÜrün Karuseli Uygulaması – E-Bebek Klonu
 
 Bu proje, bir e-ticaret web sitesinin ana sayfasında yer alan ürün karuselinin **piksel mükemmelliğinde** bir kopyasıdır.  
 Tasarım, stil ve yapı tamamen tek bir `JavaScript (.js)` dosyası içinde, **dinamik olarak** oluşturulmuştur.  
